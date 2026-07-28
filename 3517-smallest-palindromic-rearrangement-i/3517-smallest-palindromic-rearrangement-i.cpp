@@ -10,9 +10,7 @@ public:
         //here we will automatically get the sorted string because the loop itself is going in the alphabeticall order
         for(int i=0; i<26; i++){
             char ch = 'a'+i;
-            for(int j=0; j<freq[i]/2; j++){
-                left+=ch;
-            }
+            left.append(freq[i]/2,ch);
             if(freq[i]%2==1){
                 middle=ch;
             }
