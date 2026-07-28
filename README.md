@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
