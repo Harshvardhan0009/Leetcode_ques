@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
