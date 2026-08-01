@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
