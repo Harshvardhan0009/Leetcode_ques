@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
