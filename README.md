@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2235-add-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
