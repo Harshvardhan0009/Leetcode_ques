@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2235-add-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
