@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0607-sales-person) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
