@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2235-add-two-integers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -150,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
