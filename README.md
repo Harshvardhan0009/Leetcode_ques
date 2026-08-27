@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1084-sales-analysis-iii) |
 | [1527-patients-with-a-condition](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1873-calculate-special-bonus) |
 ## Backtracking
