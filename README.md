@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
