@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
