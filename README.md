@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshvardhan0009/Leetcode_ques/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
